@@ -18,9 +18,10 @@
   </p></details>
 
   - [Device-based Models with TensorFlow Lite](https://github.com/dionmkls/tensorflow-data-deployment-coursera/tree/main/C2_Device-based-TF-lite) <details>
-  
     <summary>Show Certificate</summary><p>
-      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C2.jpg"/>](https://coursera.org/verify/56CND8VFQ28K)
+  
+      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C2.jpg"/>]
+(https://coursera.org/verify/56CND8VFQ28K)
 
   </p></details>
 
