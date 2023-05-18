@@ -21,7 +21,7 @@
     <summary>Show Certificate</summary><p>
 
       [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C2.jpg"/>]
-  (https://coursera.org/verify/56CND8VFQ28K)
+(https://coursera.org/verify/56CND8VFQ28K)
 
   </p></details>
 
