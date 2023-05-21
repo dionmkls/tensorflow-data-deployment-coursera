@@ -33,6 +33,6 @@
   - [Advanced Deployment Scenarios with TensorFlow](https://github.com/dionmkls/tensorflow-data-deployment-coursera/tree/main/C4_Advanced-deployment) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C4.jpg"/>](https://coursera.org/verify/47NGRB98MC3S)
+      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C4.jpg"/>](https://coursera.org/verify/6NFDZZAZ77VT)
 
   </p></details>
