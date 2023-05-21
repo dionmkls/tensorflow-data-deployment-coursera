@@ -26,7 +26,7 @@
   - [Data Pipelines with TensorFlow Data Services](https://github.com/dionmkls/tensorflow-data-deployment-coursera/tree/main/C3_Data-pipelines) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C3.jpg"/>](https://coursera.org/verify/QRJKZNM7WRN7)
+      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C3.jpg"/>](https://coursera.org/verify/NNL9TNQSENZS)
 
   </p></details>
 
