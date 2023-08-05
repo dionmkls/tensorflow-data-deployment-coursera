@@ -1,6 +1,6 @@
 # TensorFlow: Data and Deployment Specialization
 
-## Instructed by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
+## Instructed by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/)
 ## Offered by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/deeplearning_logo.png" width="200"/>](https://www.deeplearning.ai)
 
 [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
@@ -19,6 +19,7 @@
 
   - [Device-based Models with TensorFlow Lite](https://github.com/dionmkls/tensorflow-data-deployment-coursera/tree/main/C2_Device-based-TF-lite) <details>
     <summary>Show Certificate</summary><p>
+      
       [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C2.jpg"/>](https://coursera.org/verify/56CND8VFQ28K)
 
   </p></details>
