@@ -13,7 +13,7 @@
   - [Browser-based Models with TensorFlow.js](https://github.com/dionmkls/tensorflow-data-deployment-coursera/tree/main/C1_Browser-based-TF-JS) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C1.jpg"/>](https://coursera.org/verify/M6RUFFXHVLWG)
+      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C1.jpg"/>](https://coursera.org/verify/M6RUFFXHVLWG)
 
   </p></details>
 
@@ -33,6 +33,6 @@
   - [Advanced Deployment Scenarios with TensorFlow](https://github.com/dionmkls/tensorflow-data-deployment-coursera/tree/main/C4_Advanced-deployment) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C4.jpg"/>](https://coursera.org/verify/47NGRB98MC3S)
+      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C4.jpg"/>](https://coursera.org/verify/6NFDZZAZ77VT)
 
   </p></details>
