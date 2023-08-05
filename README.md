@@ -13,7 +13,7 @@
   - [Browser-based Models with TensorFlow.js](https://github.com/dionmkls/tensorflow-data-deployment-coursera/tree/main/C1_Browser-based-TF-JS) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C1.jpg"/>](https://coursera.org/verify/M6RUFFXHVLWG)
+      [<img src="https://github.com/dionmkls/tensorflow-data-deployment-coursera/blob/main/misc/certificates/C1.jpg"/>](https://coursera.org/verify/75HAZEQRJYN2)
 
   </p></details>
 
